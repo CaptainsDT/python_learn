@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# 
+# -*- coding: UTF-8 -*-
 # 5位数依次打印出个数字
 
 import os
