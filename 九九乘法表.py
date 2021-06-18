@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/bash/env python3
 # -*- coding: UTF-8 -*-
 
 for x in range(1, 10):
