@@ -2,7 +2,28 @@
 # -*- coding: UTF-8 -*-
 
 import time
-A = 5
-print(1)
-time.sleep(5)
+import keyword
+import sys
+
+'''
+# \n换行，r禁止换行
+print("换行：""ABVCADA\nFAFASFA")
+print("禁止换行："r"ABVCADA\nFAFASFA")
+'''
+
+'''
+# 取值
+str = '1234567890'
+
+print(str)
+print(str[1])
+print(str +)
+'''
+
+'''
+A = input()
 print(A)
+'''
+
+x = 'runoob'
+sys.stdout.write(x + '\n')
